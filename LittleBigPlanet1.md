@@ -5,4 +5,4 @@
 > (from esrb.org)
 Published by: Sony Interactive Entertainment Europe
 ## ![lbp1](https://kindastore.github.io/download-_4_.png)
->> RPCS3 Compatibility: https://rpcs3.net/compatibility?g=LittleBigPlanet
+>> [RPCS3 Compatibility](https://rpcs3.net/compatibility?g=LittleBigPlanet)
